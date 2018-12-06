@@ -1,3 +1,3 @@
 Theme: jekyll-theme-cayman
 Title: Welcome to the RenskeBrummel homepage!
-Decription: feel free to bookmark this to keep an eye on my project updates.
+Description: feel free to bookmark this to keep an eye on my project updates.
