@@ -1,9 +1,9 @@
 ## Welcome to the BINGO homepage!
 
 ### Our team
-### 1. Hannah van Weerden: Product owner
-### 1. Berber Snippe: Architect
-### 1. Maud Mulder: Backend developer
-### 1. Maartje Tjeerdsma: Frontend developer
-### 1. Pleun de Vries: Frontend developer
-### 1. Renske Brummel: Documentation
+### Hannah van Weerden: Product owner
+### Berber Snippe: Architect
+### Maud Mulder: Backend developer
+### Maartje Tjeerdsma: Frontend developer
+### Pleun de Vries: Frontend developer
+### Renske Brummel: Documentation
